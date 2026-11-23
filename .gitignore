@@ -1,3 +1,6 @@
 .idea/
 .venv/
 __pycache__/
+
+# Notebook provided by the teacher (reference material, not our own work)
+Graphs_introduction*.ipynb
